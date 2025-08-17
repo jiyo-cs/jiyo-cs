@@ -9,7 +9,7 @@
 - 📚 Always learning, always building<br/>
 
 📫 Reach me at: [Email](mansouri.abdelali@univ-ouargla.com)  
-🌐 LinkedIn: [your_linkedin_profile](https://www.linkedin.com/in/abdelali-mansouri-b62b87206/)
+🌐 LinkedIn: [linkedin profile](https://www.linkedin.com/in/abdelali-mansouri-b62b87206/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiyo.abdelali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdelali-Mansouri-b62b87206/) 
