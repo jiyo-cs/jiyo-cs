@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelali
 
-<!--
-**jiyo-cs/jiyo-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science Student @ Université Kasdi Merbah – Ouargla  
+- 🔐 Interested in **Cybersecurity** & **Ethical Hacking**  
+- 🤖 Exploring **Artificial Intelligence** & **Machine Learning**  
+- ✈️ Working on **Drone Systems** & **Embedded Tech**  
+- 💻 Skilled in **C, Python, HTML, CSS, JS, ASM**  
+- 🌍 Passionate about **Astrophysics** & **Quantum Physics**  
+- 📚 Always learning, always building  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: mansouri.abdelali@univ-ouargla.dz  
+🌐 LinkedIn: https://www.linkedin.com/in/abdelali-mansouri-b62b87206/  
