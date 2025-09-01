@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelali
 
-- 🎓 Computer Science Student @ Université Kasdi Merbah – Ouargla<br/>  
+- 🎓 Computer Science Student @ Université Kasdi Merbah <br/>  
 - 🔐 Interested in **Cybersecurity** & **Ethical Hacking**<br/>
 - 🤖 Exploring **Artificial Intelligence** & **Machine Learning**<br/>  
 - ✈️ Working on **Drone Systems** & **Embedded Tech**<br/>
